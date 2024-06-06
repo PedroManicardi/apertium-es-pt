@@ -12,6 +12,7 @@ TARGETS_COMMON = \
 	$(PREFIX1).autogen.bin \
 	$(PREFIX1).automorf.bin \
 	$(PREFIX1).autopgen.bin \
+	$(PREFIX1).crx.bin \
 	$(PREFIX1b).autobil.bin \
 	$(PREFIX1b).autogen.bin \
 	$(PREFIX1b).autopgen.bin \
@@ -24,7 +25,8 @@ TARGETS_COMMON = \
 	$(PREFIX2).automorf.bin \
 	$(PREFIX2).autopgen.bin \
 	$(PREFIX2).t1x \
-	$(PREFIX2).t1x.bin
+	$(PREFIX2).t1x.bin \
+	$(PREFIX2).crx.bin 
 
 @ap_include@
 
@@ -39,6 +41,10 @@ $(PREFIX1).autobil.bin: es-pt.dix
 $(PREFIX1).autogen.bin: pt.dix
 	apertium-validate-dictionary pt.dix
 	lt-comp rl pt.dix $@
+
+$(PREFIX1).crx.bin: $(BASENAME).$(PREFIX1).crx
+	apertium-validate-crx $<
+	apertium-compile-caps $< $@
 
 $(PREFIX1b).autobil.bin: es-pt_BR.dix
 	apertium-validate-dictionary es-pt_BR.dix
@@ -82,6 +88,10 @@ $(PREFIX2).t1x.bin: $(BASENAME).$(PREFIX2).t1x
 	apertium-preprocess-transfer $(BASENAME).$(PREFIX2).t1x \
 	                             $(PREFIX2).t1x.bin
 
+$(PREFIX2).crx.bin: $(BASENAME).$(PREFIX2).crx
+	apertium-validate-crx $<
+	apertium-compile-caps $< $@
+	
 $(PREFIX1).t1x: $(BASENAME).$(PREFIX1).t1x
 	apertium-filter-rules pt_PT $(BASENAME).$(PREFIX1).t1x >$@
 
