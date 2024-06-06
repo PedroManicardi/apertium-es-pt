@@ -61,6 +61,9 @@
       <program name="apertium-tagger -g $2">
         <file name="pt-es.prob"/>
       </program>
+      <program name="apertium-restore-caps">
+        <file name="pt-es.crx.bin"/>
+      </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
         <file name="pt-es.t1x"/>
@@ -84,6 +87,9 @@
       </program>
       <program name="apertium-tagger -g $2">
         <file name="es-pt.prob"/>
+      </program>
+      <program name="apertium-restore-caps">
+        <file name="es-pt.crx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">

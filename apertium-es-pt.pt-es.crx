@@ -20,19 +20,5 @@
       </or>
       <match select="Aa"/>
     </rule>
-    <rule weight="1.0">
-      <or>
-        <match tags="sent"/>
-        <match tags="cm"/>
-      </or>
-    </rule>
-     <rule weight="1.0">
-      <or>
-        <match trglem="aA"/>   
-        <match trglem="*aA"/>  
-        <match trglem="aA*"/>  
-        <match trglem="*aA*"/> 
-    </or>
-    </rule>
   </rules>
 </capitalization>
