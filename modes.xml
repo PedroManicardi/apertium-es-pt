@@ -141,6 +141,9 @@
       <program name="lt-proc -p">
         <file name="es-pt_BR.autopgen.bin"/>
       </program>
+      <program name="apertium-restore-caps">
+        <file name="es-pt_BR.crx.bin"/>
+      </program>
     </pipeline>
   </mode>
 </modes>

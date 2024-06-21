@@ -13,6 +13,7 @@ TARGETS_COMMON = \
 	$(PREFIX1).automorf.bin \
 	$(PREFIX1).autopgen.bin \
 	$(PREFIX1).crx.bin \
+	$(PREFIX1b).crx.bin \
 	$(PREFIX1b).autobil.bin \
 	$(PREFIX1b).autogen.bin \
 	$(PREFIX1b).autopgen.bin \
@@ -43,6 +44,10 @@ $(PREFIX1).autogen.bin: pt.dix
 	lt-comp rl pt.dix $@
 
 $(PREFIX1).crx.bin: $(BASENAME).$(PREFIX1).crx
+	apertium-validate-crx $<
+	apertium-compile-caps $< $@
+
+$(PREFIX1b).crx.bin: $(BASENAME).$(PREFIX1b).crx
 	apertium-validate-crx $<
 	apertium-compile-caps $< $@
 
