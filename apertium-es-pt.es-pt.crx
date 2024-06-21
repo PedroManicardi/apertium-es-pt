@@ -13,9 +13,9 @@
     </rule>
     <rule weight="1.0">
       <or>
-        <match lemma="natal" select="Aa"/>
-        <match lemma="páscoa" select="Aa"/>
-        <match lemma="carnaval" select="Aa"/>
+        <match lemma="Natal" select="Aa"/>
+        <match lemma="Páscoa" select="Aa"/>
+        <match lemma="Carnaval" select="Aa"/>
       </or>
     </rule>
     <rule weight="1.0">
