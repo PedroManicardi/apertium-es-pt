@@ -1,24 +1,7 @@
 <?xml version="1.0"?>
 <capitalization>
-  <rules>
+  <rules>    
     <rule weight="3.0">
-      <or>
-        <begin/>
-        <match tags="sent"/>
-      </or>
-      <match select="Aa"/>
-    </rule>
-    <rule weight="2.0">
-      <match tags="np.*" select="Aa"/>
-    </rule>
-    <rule weight="1.0">
-      <or>
-        <match lemma="Pascua" select="Aa"/>
-        <match lemma="Carnaval" select="Aa"/>
-        <match lemma="Navidad" select="Aa"/>
-      </or>
-    </rule>
-    <rule weight="1.0">
       <or>
         <match lemma="iPhone" select="dix"/>
         <match lemma="iPod" select="dix"/>
@@ -27,7 +10,24 @@
         <match lemma="LaTeX" select="dix"/>
         <match lemma="PlayStation" select="dix"/>
       </or>
-    </rule>  
+    </rule> 
+    <rule weight="2.0">
+      <or>
+        <begin/>
+        <match tags="sent"/>
+      </or>
+      <match select="Aa"/>
+    </rule>
+    <rule weight="1.0">
+      <or>
+        <match lemma="Pascua" select="Aa"/>
+        <match lemma="Carnaval" select="Aa"/>
+        <match lemma="Navidad" select="Aa"/>
+      </or>
+    </rule> 
+    <rule weight="0.5">
+      <match tags="np.*" select="Aa"/>
+    </rule>
     <rule weight="0.1">
       <match select="aa"/>
     </rule>

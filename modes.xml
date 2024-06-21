@@ -58,11 +58,9 @@
       <program name="lt-proc">
         <file name="pt-es.automorf.bin"/>
       </program>
+      <program name="apertium-extract-caps"/>
       <program name="apertium-tagger -g $2">
         <file name="pt-es.prob"/>
-      </program>
-      <program name="apertium-restore-caps">
-        <file name="pt-es.crx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
@@ -70,12 +68,14 @@
         <file name="pt-es.t1x.bin"/>
         <file name="pt-es.autobil.bin"/>
       </program>
-      <program name="apertium-extract-caps"/>
       <program name="lt-proc $1">
         <file name="pt-es.autogen.bin"/>
       </program>
       <program name="lt-proc -p">
         <file name="pt-es.autopgen.bin"/>
+      </program>
+      <program name="apertium-restore-caps">
+        <file name="pt-es.crx.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -85,17 +85,14 @@
       <program name="lt-proc">
         <file name="es-pt.automorf.bin"/>
       </program>
+      <program name="apertium-extract-caps"/>
       <program name="apertium-tagger -g $2">
         <file name="es-pt.prob"/>
-      </program>
-      <program name="apertium-restore-caps">
-        <file name="es-pt.crx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
         <file name="es-pt.autobil.bin"/>
       </program>
-      <program name="apertium-extract-caps"/>
       <program name="apertium-transfer -b">
         <file name="es-pt.t1x"/>
         <file name="es-pt.t1x.bin"/>
@@ -105,6 +102,9 @@
       </program>
       <program name="lt-proc -p">
         <file name="es-pt.autopgen.bin"/>
+      </program>
+      <program name="apertium-restore-caps">
+        <file name="es-pt.crx.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -125,6 +125,7 @@
       <program name="lt-proc">
         <file name="es-pt.automorf.bin"/>
       </program>
+      <program name="apertium-extract-caps"/>
       <program name="apertium-tagger -g $2">
         <file name="es-pt.prob"/>
       </program>
@@ -134,7 +135,6 @@
         <file name="es-pt_BR.t1x.bin"/>
         <file name="es-pt_BR.autobil.bin"/>
       </program>
-      <program name="apertium-extract-caps"/>
       <program name="lt-proc $1">
         <file name="es-pt_BR.autogen.bin"/>
       </program>
