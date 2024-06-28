@@ -58,10 +58,10 @@
       <program name="lt-proc -w">
         <file name="pt-es.automorf.bin"/>
       </program>
-      <program name="apertium-extract-caps"/>
       <program name="apertium-tagger -g $2">
         <file name="pt-es.prob"/>
       </program>
+      <program name="apertium-extract-caps"/>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
         <file name="pt-es.t1x"/>
@@ -85,10 +85,10 @@
       <program name="lt-proc -w">
         <file name="es-pt.automorf.bin"/>
       </program>
-      <program name="apertium-extract-caps"/>
       <program name="apertium-tagger -g $2">
         <file name="es-pt.prob"/>
       </program>
+      <program name="apertium-extract-caps"/>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
         <file name="es-pt.autobil.bin"/>
@@ -125,10 +125,10 @@
       <program name="lt-proc -w">
         <file name="es-pt.automorf.bin"/>
       </program>
-      <program name="apertium-extract-caps"/>
       <program name="apertium-tagger -g $2">
         <file name="es-pt.prob"/>
       </program>
+      <program name="apertium-extract-caps"/>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
         <file name="es-pt_BR.t1x"/>
