@@ -55,7 +55,7 @@
  
   <mode name="pt-es" install="yes">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="pt-es.automorf.bin"/>
       </program>
       <program name="apertium-extract-caps"/>
@@ -82,7 +82,7 @@
   
   <mode name="es-pt" install="yes">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="es-pt.automorf.bin"/>
       </program>
       <program name="apertium-extract-caps"/>
@@ -122,7 +122,7 @@
 
   <mode name="es-pt_BR" install="yes">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="es-pt.automorf.bin"/>
       </program>
       <program name="apertium-extract-caps"/>
