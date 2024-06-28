@@ -68,14 +68,14 @@
         <file name="pt-es.t1x.bin"/>
         <file name="pt-es.autobil.bin"/>
       </program>
-      <program name="lt-proc $1">
+      <program name="lt-proc -b">
         <file name="pt-es.autogen.bin"/>
-      </program>
-      <program name="lt-proc -p">
-        <file name="pt-es.autopgen.bin"/>
       </program>
       <program name="apertium-restore-caps">
         <file name="pt-es.crx.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="pt-es.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -97,14 +97,14 @@
         <file name="es-pt.t1x"/>
         <file name="es-pt.t1x.bin"/>
       </program>
-      <program name="lt-proc $1">
+      <program name="lt-proc -b">
         <file name="es-pt.autogen.bin"/>
-      </program>
-      <program name="lt-proc -p">
-        <file name="es-pt.autopgen.bin"/>
       </program>
       <program name="apertium-restore-caps">
         <file name="es-pt.crx.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="es-pt.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -135,14 +135,14 @@
         <file name="es-pt_BR.t1x.bin"/>
         <file name="es-pt_BR.autobil.bin"/>
       </program>
-      <program name="lt-proc $1">
+      <program name="lt-proc -b">
         <file name="es-pt_BR.autogen.bin"/>
-      </program>
-      <program name="lt-proc -p">
-        <file name="es-pt_BR.autopgen.bin"/>
       </program>
       <program name="apertium-restore-caps">
         <file name="es-pt_BR.crx.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="es-pt_BR.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
