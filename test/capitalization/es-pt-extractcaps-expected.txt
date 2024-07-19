@@ -1,0 +1,24 @@
+[[c:Aa/aa]]^la<det>$ [[c:aa/aa]]^casa<n>$ [[c:Aa/aa]]^es<v>$ 
+[[c:aa/aa]]^grande<adj>$ [[c:aa/aa]]^y<cnjcoo>$ [[c:aa/aa]]^hermosa<adj>$ 
+[[c:Aa/aa]]^con<pr>$ [[c:aa/aa]]^un<det>$ [[c:aa/aa]]^jardín<n>$ 
+[[c:aa/aa]]^bonito<adj>$ [[c:aa/aa]]^que<prn>$ [[c:aa/aa]]^tiene<v>$ 
+[[c:aa/aa]]^muchas<det>$ [[c:aa/aa]]^flores<n>$ [[c:aa/aa]]^y<cnjcoo>$ 
+[[c:aa/aa]]^árboles<n>$ [[c:aa/Aa]]^Altos<adj>$. 
+[[c:Aa/aa]]^el<det>$ [[c:aa/aa]]^perro<n>$ [[c:aa/aa]]^corre<v>$ [[c:aa/aa]]^rápidamente<adv>$ 
+[[c:aa/aa]]^y<cnjcoo>$ [[c:aa/aa]]^salta<v>$ [[c:aa/aa]]^alto<adj>$. 
+[[c:Aa/aa]]^mi<det>$ [[c:aa/aa]]^amigo<n>$ [[c:aa/aa]]^escribe<v>$ [[c:aa/aa]]^cartas<n>$ 
+[[c:aa/aa]]^todos<det>$ [[c:aa/aa]]^los<det>$ [[c:aa/aa]]^días<n>$.
+ [[c:Aa/aa]]^la<det>$ [[c:aa/aa]]^amiga<n>$ [[c:aa/aa]]^de<pr>$ [[c:aa/aa]]^maria<np>$ [[c:aa/aa]]^se<prn>$ 
+[[c:aa/aa]]^llama<v>$ [[c:Aa/Aa]]^Ana<np>$ [[c:aa/aa]]^y<cnjcoo>$ [[c:aa/aa]]^vive<v>$ [[c:aa/aa]]^en<pr>$ [[c:Aa/Aa]]^Madrid<np>$.
+ [[c:aa/aa]]^iPhone<np>$ [[c:aa/aa]]^es<v>$ [[c:aa/aa]]^un<det>$ [[c:aa/aa]]^dispositivo<n>$
+[[c:aa/aa]]^popular<adj>$. [[c:AA/AA]]^LaTeX<np>$ [[c:aa/aa]]^es<v>$ [[c:aa/aa]]^un<det>$ [[c:aa/aa]]^sistema<n>$ 
+[[c:aa/aa]]^de<pr>$ [[c:aa/aa]]^composición<n>$ [[c:aa/aa]]^de<pr>$ [[c:aa/aa]]^textos<n>$. 
+[[c:AA/AA]]^HTML<np>$ [[c:aa/aa]]^es<v>$ [[c:aa/aa]]^un<det>$ [[c:aa/aa]]^lenguaje<n>$ 
+[[c:aa/aa]]^de<pr>$ [[c:aa/aa]]^programación<n>$. 
+[[c:Aa/Aa]]^Apple<np>$ [[c:aa/aa]]^es<v>$ [[c:aa/aa]]^una<det>$ [[c:aa/aa]]^empresa<n>$ 
+[[c:aa/aa]]^de<pr>$ [[c:aa/aa]]^tecnología<n>$. 
+[[c:Aa/Aa]]^LinkedIn<np>$ [[c:aa/aa]]^es<v>$ [[c:aa/aa]]^una<det>$ [[c:aa/aa]]^red<n>$ 
+[[c:aa/aa]]^social<adj>$. 
+[[c:Aa/Aa]]^YouTube<np>$ [[c:aa/aa]]^permite<v>$ [[c:aa/aa]]^compartir<v>$ [[c:aa/aa]]^videos<n>$.
+ [[c:Aa/Aa]]^PayPal<np>$ [[c:aa/aa]]^es<v>$ [[c:aa/aa]]^una<det>$ [[c:aa/aa]]^plataforma<n>$ 
+[[c:aa/aa]]^de<pr>$ [[c:aa/aa]]^pagos<n>$.
