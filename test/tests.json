@@ -3,6 +3,10 @@
         "input": "es-pt-input.txt",
         "mode": "es-pt"
     },
+    "es-pt-caps": {
+        "input": "es-pt-capitalization-input.txt",
+        "mode": "es-pt"
+    },
     "pt-es": {
         "input": "pt-es-input.txt",
         "mode": "pt-es"
