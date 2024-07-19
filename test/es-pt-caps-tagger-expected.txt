@@ -4,8 +4,6 @@
 [/7Rt4YWc5HorP]
 [877yFRpEnvGN#0] ^La/el<det><def><f><sg>$ ^casa/casa<n><f><sg>$ ^es/ser<vbser><pri><p3><sg>$ ^grande/grande<adj><mf><sg>$ ^y/y<cnjcoo>$ ^hermosa/hermoso<adj><f><sg>$^./.<sent>$
 [/877yFRpEnvGN]
-[92-cpwTsRdOW#0] ^HTML/html<np><al>$ ^es/ser<vbser><pri><p3><sg>$ ^un/uno<det><ind><m><sg>$ ^lenguaje/lenguaje<n><m><sg>$ ^de/de<pr>$ ^programación/programación<n><f><sg>$^./.<sent>$
-[/92-cpwTsRdOW]
 [Bz-zHO_KBjFw#0] ^iPhone/iPhone<np><al>$ ^es/ser<vbser><pri><p3><sg>$ ^un/uno<det><ind><m><sg>$ ^dispositivo/dispositivo<n><m><sg>$ ^popular/popular<adj><mf><sg>$^./.<sent>$
 [/Bz-zHO_KBjFw]
 [MiS_DZAvUIQF#0] ^La/el<det><def><f><sg>$ ^amiga/amigo<n><f><sg>$ ^de/de<pr>$ ^Maria/Maria<np><loc>$ ^se/se<prn><pro><ref><p3><mf><sp>$ ^llama/llamar<vblex><pri><p3><sg>$ ^Ana/Ana<np><ant>$ ^y/y<cnjcoo>$ ^vive/vivir<vblex><pri><p3><sg>$ ^en/en<pr>$ ^Madrid/Madrid<np><loc>$^./.<sent>$
@@ -22,3 +20,5 @@
 [/qg703I_pk4WS]
 [ssK-AMO_ymJ3#0] ^LinkedIn/*LinkedIn$ ^es/ser<vbser><pri><p3><sg>$ ^una/uno<det><ind><f><sg>$ ^red/red<n><f><sg>$ ^social/social<adj><mf><sg>$^./.<sent>$
 [/ssK-AMO_ymJ3]
+[xKcQ6y3roz0V#0] ^La/el<det><def><f><sg>$ ^OMS/OMS<n><acr><f><sg>$ ^ha/haber<vbhaver><pri><p3><sg>$ ^lanzado/lanzar<vblex><pp><m><sg>$ ^una/uno<det><ind><f><sg>$ ^nueva/nuevo<adj><f><sg>$ ^campaña/campaña<n><f><sg>$^./.<sent>$
+[/xKcQ6y3roz0V]

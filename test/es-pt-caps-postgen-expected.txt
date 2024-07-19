@@ -4,8 +4,6 @@
 [/7Rt4YWc5HorP]
 [877yFRpEnvGN#0] A casa é grande e formosa.
 [/877yFRpEnvGN]
-[92-cpwTsRdOW#0] Html é uma linguagem de programação.
-[/92-cpwTsRdOW]
 [Bz-zHO_KBjFw#0] iPhone é um dispositivo popular.
 [/Bz-zHO_KBjFw]
 [MiS_DZAvUIQF#0] A amiga de Maria chama-se Ana e vive em Madri.
@@ -22,3 +20,5 @@
 [/qg703I_pk4WS]
 [ssK-AMO_ymJ3#0] *LinkedIn é uma rede social.
 [/ssK-AMO_ymJ3]
+[xKcQ6y3roz0V#0] A OMS tem lançado uma nova campanha.
+[/xKcQ6y3roz0V]

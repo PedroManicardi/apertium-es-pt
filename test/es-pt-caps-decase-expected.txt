@@ -4,8 +4,6 @@
 [/7Rt4YWc5HorP]
 [877yFRpEnvGN#0] [[c:Aa/aa]]^el<det><def><f><sg>$ [[c:aa/aa]]^casa<n><f><sg>$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>$ [[c:aa/aa]]^grande<adj><mf><sg>$ [[c:aa/aa]]^y<cnjcoo>$ [[c:aa/aa]]^hermoso<adj><f><sg>$[[c:aa/aa]]^.<sent>$
 [/877yFRpEnvGN]
-[92-cpwTsRdOW#0] [[c:AA/aa]]^html<np><al>$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>$ [[c:aa/aa]]^uno<det><ind><m><sg>$ [[c:aa/aa]]^lenguaje<n><m><sg>$ [[c:aa/aa]]^de<pr>$ [[c:aa/aa]]^programación<n><f><sg>$[[c:aa/aa]]^.<sent>$
-[/92-cpwTsRdOW]
 [Bz-zHO_KBjFw#0] [[c:aa/aa]]^iPhone<np><al>$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>$ [[c:aa/aa]]^uno<det><ind><m><sg>$ [[c:aa/aa]]^dispositivo<n><m><sg>$ [[c:aa/aa]]^popular<adj><mf><sg>$[[c:aa/aa]]^.<sent>$
 [/Bz-zHO_KBjFw]
 [MiS_DZAvUIQF#0] [[c:Aa/aa]]^el<det><def><f><sg>$ [[c:aa/aa]]^amigo<n><f><sg>$ [[c:aa/aa]]^de<pr>$ [[c:Aa/Aa]]^Maria<np><loc>$ [[c:aa/aa]]^se<prn><pro><ref><p3><mf><sp>$ [[c:aa/aa]]^llamar<vblex><pri><p3><sg>$ [[c:Aa/Aa]]^Ana<np><ant>$ [[c:aa/aa]]^y<cnjcoo>$ [[c:aa/aa]]^vivir<vblex><pri><p3><sg>$ [[c:aa/aa]]^en<pr>$ [[c:Aa/Aa]]^Madrid<np><loc>$[[c:aa/aa]]^.<sent>$
@@ -22,3 +20,5 @@
 [/qg703I_pk4WS]
 [ssK-AMO_ymJ3#0] [[c:Aa/aa]]^*LinkedIn$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>$ [[c:aa/aa]]^uno<det><ind><f><sg>$ [[c:aa/aa]]^red<n><f><sg>$ [[c:aa/aa]]^social<adj><mf><sg>$[[c:aa/aa]]^.<sent>$
 [/ssK-AMO_ymJ3]
+[xKcQ6y3roz0V#0] [[c:Aa/aa]]^el<det><def><f><sg>$ [[c:AA/AA]]^OMS<n><acr><f><sg>$ [[c:aa/aa]]^haber<vbhaver><pri><p3><sg>$ [[c:aa/aa]]^lanzar<vblex><pp><m><sg>$ [[c:aa/aa]]^uno<det><ind><f><sg>$ [[c:aa/aa]]^nuevo<adj><f><sg>$ [[c:aa/aa]]^campaña<n><f><sg>$[[c:aa/aa]]^.<sent>$
+[/xKcQ6y3roz0V]
