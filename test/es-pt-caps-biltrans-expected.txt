@@ -1,0 +1,24 @@
+[5UFZV9O4uqpz#0] [[c:Aa/aa]]^mío<det><pos><mf><sg>/meu<det><pos><GD><sg>$ [[c:aa/aa]]^amigo<n><m><sg>/amigo<n><m><sg>$ [[c:aa/aa]]^escribir<vblex><pri><p3><sg>/escrever<vblex><pri><p3><sg>$ [[c:aa/aa]]^carta<n><f><pl>/carta<n><f><pl>$ [[c:aa/aa]]^todo<predet><m><pl>/todo<predet><m><pl>$ [[c:aa/aa]]^el<det><def><m><pl>/o<det><def><m><pl>$ [[c:aa/aa]]^día<n><m><pl>/dia<n><m><pl>$[[c:aa/aa]]^.<sent>/.<sent>$
+[/5UFZV9O4uqpz]
+[7Rt4YWc5HorP#0] [[c:Aa/Aa]]^Apple<np><al>/Apple<np><al>$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>/ser<vbser><pri><p3><sg>$ [[c:aa/aa]]^uno<det><ind><f><sg>/um<det><ind><f><sg>$ [[c:aa/aa]]^empresa<n><f><sg>/empresa<n><f><sg>$ [[c:aa/aa]]^de<pr>/de<pr>$ [[c:aa/aa]]^tecnología<n><f><sg>/tecnologia<n><f><sg>$[[c:aa/aa]]^.<sent>/.<sent>$
+[/7Rt4YWc5HorP]
+[877yFRpEnvGN#0] [[c:Aa/aa]]^el<det><def><f><sg>/o<det><def><f><sg>$ [[c:aa/aa]]^casa<n><f><sg>/casa<n><f><sg>$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>/ser<vbser><pri><p3><sg>$ [[c:aa/aa]]^grande<adj><mf><sg>/grande<adj><mf><sg>$ [[c:aa/aa]]^y<cnjcoo>/e<cnjcoo>$ [[c:aa/aa]]^hermoso<adj><f><sg>/formoso<adj><f><sg>$[[c:aa/aa]]^.<sent>/.<sent>$
+[/877yFRpEnvGN]
+[92-cpwTsRdOW#0] [[c:AA/aa]]^html<np><al>/html<np><al>$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>/ser<vbser><pri><p3><sg>$ [[c:aa/aa]]^uno<det><ind><m><sg>/um<det><ind><m><sg>$ [[c:aa/aa]]^lenguaje<n><m><sg>/linguagem<n><f><sg>$ [[c:aa/aa]]^de<pr>/de<pr>$ [[c:aa/aa]]^programación<n><f><sg>/programação<n><f><sg>$[[c:aa/aa]]^.<sent>/.<sent>$
+[/92-cpwTsRdOW]
+[Bz-zHO_KBjFw#0] [[c:aa/aa]]^iPhone<np><al>/iPhone<np><al>$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>/ser<vbser><pri><p3><sg>$ [[c:aa/aa]]^uno<det><ind><m><sg>/um<det><ind><m><sg>$ [[c:aa/aa]]^dispositivo<n><m><sg>/dispositivo<n><m><sg>$ [[c:aa/aa]]^popular<adj><mf><sg>/popular<adj><mf><sg>$[[c:aa/aa]]^.<sent>/.<sent>$
+[/Bz-zHO_KBjFw]
+[MiS_DZAvUIQF#0] [[c:Aa/aa]]^el<det><def><f><sg>/o<det><def><f><sg>$ [[c:aa/aa]]^amigo<n><f><sg>/amigo<n><f><sg>$ [[c:aa/aa]]^de<pr>/de<pr>$ [[c:Aa/Aa]]^Maria<np><loc>/Maria<np><loc>$ [[c:aa/aa]]^se<prn><pro><ref><p3><mf><sp>/se<prn><pro><ref><p3><mf><sp>$ [[c:aa/aa]]^llamar<vblex><pri><p3><sg>/chamar<vblex><pri><p3><sg>$ [[c:Aa/Aa]]^Ana<np><ant>/Ana<np><ant>$ [[c:aa/aa]]^y<cnjcoo>/e<cnjcoo>$ [[c:aa/aa]]^vivir<vblex><pri><p3><sg>/viver<vblex><pri><p3><sg>$ [[c:aa/aa]]^en<pr>/em<pr>$ [[c:Aa/Aa]]^Madrid<np><loc>/Madri<np><loc>$[[c:aa/aa]]^.<sent>/.<sent>$
+[/MiS_DZAvUIQF]
+[_cAYlrCKU7jA#0] [[c:Aa/aa]]^con<pr>/com<pr>$ [[c:aa/aa]]^uno<det><ind><m><sg>/um<det><ind><m><sg>$ [[c:aa/aa]]^jardín<n><m><sg>/jardim<n><m><sg>$ [[c:aa/aa]]^bonito<adj><m><sg>/bonito<adj><m><sg>$ [[c:aa/aa]]^que<rel><an><mf><sp>/que<rel><an><mf><sp>$ [[c:aa/aa]]^tener<vblex><pri><p3><sg>/ter<vblex><pri><p3><sg>$ [[c:aa/aa]]^mucho<adj><f><pl>/muito<adj><f><pl>$ [[c:aa/aa]]^flor<n><f><pl>/flor<n><f><pl>$ [[c:aa/aa]]^y<cnjcoo>/e<cnjcoo>$ [[c:aa/aa]]^árbol<n><m><pl>/árvore<n><f><pl>$ [[c:aa/aa]]^alto<adj><m><pl>/alto<adj><m><pl>$[[c:aa/aa]]^.<sent>/.<sent>$
+[/_cAYlrCKU7jA]
+[_sw4mTjUbnKn#0] [[c:AA/aa]]^*LaTeX/*LaTeX$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>/ser<vbser><pri><p3><sg>$ [[c:aa/aa]]^uno<det><ind><m><sg>/um<det><ind><m><sg>$ [[c:aa/aa]]^sistema<n><m><sg>/sistema<n><m><sg>$ [[c:aa/aa]]^de<pr>/de<pr>$ [[c:aa/aa]]^composición<n><f><sg>/composição<n><f><sg>$ [[c:aa/aa]]^de<pr>/de<pr>$ [[c:aa/aa]]^texto<n><m><pl>/texto<n><m><pl>$[[c:aa/aa]]^.<sent>/.<sent>$
+[/_sw4mTjUbnKn]
+[jsBbyqXWatRp#0] [[c:Aa/aa]]^el<det><def><m><sg>/o<det><def><m><sg>$ [[c:aa/aa]]^perro<n><m><sg>/cão<n><m><sg>$ [[c:aa/aa]]^correr<vblex><pri><p3><sg>/correr<vblex><pri><p3><sg>$ [[c:aa/aa]]^rápidamente<adv>/rapidamente<adv>$ [[c:aa/aa]]^y<cnjcoo>/e<cnjcoo>$ [[c:aa/aa]]^saltar<vblex><pri><p3><sg>/saltar<vblex><pri><p3><sg>$ [[c:aa/aa]]^alto<adj><m><sg>/alto<adj><m><sg>$[[c:aa/aa]]^.<sent>/.<sent>$
+[/jsBbyqXWatRp]
+[kevUt7u2wQI4#0] [[c:Aa/Aa]]^YouTube<np><al>/YouTube<np><al>$ [[c:aa/aa]]^permitir<vblex><pri><p3><sg>/permitir<vblex><pri><p3><sg>$ [[c:aa/aa]]^compartir<vblex><inf>/compartilhar<vblex><inf>$ [[c:aa/aa]]^video<n><m><pl>/video<n><m><pl>$[[c:aa/aa]]^.<sent>/.<sent>$
+[/kevUt7u2wQI4]
+[qg703I_pk4WS#0] [[c:Aa/aa]]^*PayPal/*PayPal$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>/ser<vbser><pri><p3><sg>$ [[c:aa/aa]]^uno<det><ind><f><sg>/um<det><ind><f><sg>$ [[c:aa/aa]]^plataforma<n><f><sg>/plataforma<n><f><sg>$ [[c:aa/aa]]^de<pr>/de<pr>$ [[c:aa/aa]]^pago<n><m><pl>/pagamento<n><m><pl>$[[c:aa/aa]]^.<sent>/.<sent>$
+[/qg703I_pk4WS]
+[ssK-AMO_ymJ3#0] [[c:Aa/aa]]^*LinkedIn/*LinkedIn$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>/ser<vbser><pri><p3><sg>$ [[c:aa/aa]]^uno<det><ind><f><sg>/um<det><ind><f><sg>$ [[c:aa/aa]]^red<n><f><sg>/rede<n><f><sg>$ [[c:aa/aa]]^social<adj><mf><sg>/social<adj><mf><sg>$[[c:aa/aa]]^.<sent>/.<sent>$
+[/ssK-AMO_ymJ3]
