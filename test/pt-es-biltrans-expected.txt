@@ -1,0 +1,10 @@
+[0AGdvsBpnF9l#0] [[c:aa/aa]]^\@\^*ls/@\@\^*ls$  [[c:aa/aa]]^\@\^*hnoo/@\@\^*hnoo$
+[/0AGdvsBpnF9l]
+[0DUCxD10owuT#0] [[c:aa/aa]]^\@\^,<cm>/@\@\^,<cm>$
+[/0DUCxD10owuT]
+[Muuxq8wcYBzr#0] [[c:aa/aa]]^\@\^(<lpar>/@\@\^(<lpar>$
+[/Muuxq8wcYBzr]
+[YZmuzyOrp-h7#0] [[c:aa/aa]]^\@\^*po/@\@\^*po$
+[/YZmuzyOrp-h7]
+[u3IIvJtdfATx#0] [[c:aa/aa]]^\@\^!<sent>/@\@\^!<sent>$
+[/u3IIvJtdfATx]
