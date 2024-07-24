@@ -10,10 +10,12 @@
       </program>
       <program name="apertium-extract-caps"/>
       <program name="apertium-pretransfer"/>
-      <program name="apertium-transfer">
+      <program name="lt-proc -b">
+        <file name="pt-es.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
         <file name="pt-es.t1x"/>
         <file name="pt-es.t1x.bin"/>
-        <file name="pt-es.autobil.bin"/>
       </program>
       <program name="lt-proc -b">
         <file name="pt-es.autogen.bin"/>
@@ -66,10 +68,12 @@
       </program>
       <program name="apertium-extract-caps"/>
       <program name="apertium-pretransfer"/>
-      <program name="apertium-transfer">
+      <program name="lt-proc -b">
+        <file name="es-pt_BR.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
         <file name="es-pt_BR.t1x"/>
         <file name="es-pt_BR.t1x.bin"/>
-        <file name="es-pt_BR.autobil.bin"/>
       </program>
       <program name="lt-proc -b">
         <file name="es-pt_BR.autogen.bin"/>

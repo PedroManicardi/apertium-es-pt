@@ -10,5 +10,9 @@
     "pt-es": {
         "input": "pt-es-input.txt",
         "mode": "pt-es"
+    },
+    "pt-es-caps": {
+        "input": "pt-es-capitalization-input.txt",
+        "mode": "pt-es"
     }
 }

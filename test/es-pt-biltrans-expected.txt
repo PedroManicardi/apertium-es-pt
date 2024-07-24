@@ -1,10 +1,10 @@
-[0-995WL5pKNK#0] ^*ui/*ui$
+[0-995WL5pKNK#0] [[c:aa/aa]]^*ui/*ui$
 [/0-995WL5pKNK]
-[IJCWLXSGzEXd#0] ^*KyoçA/*KyoçA$
+[IJCWLXSGzEXd#0] [[c:AA/aa]]^*KyoçA/*KyoçA$
 [/IJCWLXSGzEXd]
-[LVeePL9kDYLq#0] ^*kgbabgóoyucrriopasn/*kgbabgóoyucrriopasn$
+[LVeePL9kDYLq#0] [[c:aa/aa]]^*kgbabgóoyucrriopasn/*kgbabgóoyucrriopasn$
 [/LVeePL9kDYLq]
-[gy0ryh_aql5B#0] ^*Gheinoqyen/*Gheinoqyen$
+[gy0ryh_aql5B#0] [[c:Aa/aa]]^*Gheinoqyen/*Gheinoqyen$
 [/gy0ryh_aql5B]
-[io3oI9XtPhJ0#0] ^?<sent>/?<sent>$
+[io3oI9XtPhJ0#0] [[c:aa/aa]]^?<sent>/?<sent>$
 [/io3oI9XtPhJ0]

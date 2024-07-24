@@ -1,10 +1,10 @@
-[0AGdvsBpnF9l#0] ^*ls$  ^*hnoo$
+[0AGdvsBpnF9l#0] ^ls/*ls$  ^hnoo/*hnoo$
 [/0AGdvsBpnF9l]
-[0DUCxD10owuT#0] ^,<cm>$
+[0DUCxD10owuT#0] ^,/,<cm>$
 [/0DUCxD10owuT]
-[Muuxq8wcYBzr#0] ^(<lpar>$
+[Muuxq8wcYBzr#0] ^(/(<lpar>$
 [/Muuxq8wcYBzr]
-[YZmuzyOrp-h7#0] ^*po$
+[YZmuzyOrp-h7#0] ^po/*po$
 [/YZmuzyOrp-h7]
-[u3IIvJtdfATx#0] ^!<sent>$
+[u3IIvJtdfATx#0] ^!/!<sent>$
 [/u3IIvJtdfATx]
